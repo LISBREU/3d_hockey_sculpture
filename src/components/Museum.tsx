@@ -73,7 +73,7 @@ const Museum = () => {
               </div>
             </div>
             
-            <a href="https://t.me/Hockey_Sculpture?text=Здравствуйте,%20хочу%20заказать%203Д%20скульптуру!" target="_blank" rel="noopener noreferrer">
+            <a href="https://t.me/Hockey_Sculpture?text=Здравствуйте,%20хочу%20заказать%203Д%20скульптуру!" target="_blank" rel="noopener noreferrer" className="inline-block mt-4">
               <Button variant="hero" size="lg" className="w-full sm:w-auto">
                 Заказать сейчас
               </Button>
