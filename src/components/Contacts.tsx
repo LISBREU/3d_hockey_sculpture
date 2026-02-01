@@ -76,7 +76,7 @@ const Contacts = () => {
       <div className="container mx-auto px-4 mt-20 pt-8 border-t border-border/50">
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
           <p>© 2025 Hockey Sculpture. Все права защищены.</p>
-          <p>Создаем легенды в 3д</p>
+          <p>Создаем легенды в 3Д</p>
         </div>
       </div>
     </section>
