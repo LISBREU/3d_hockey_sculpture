@@ -41,7 +41,7 @@ const Museum = () => {
             
             <div className="mt-8 text-center">
               <h3 className="text-2xl md:text-3xl font-bold uppercase mb-2">
-                Создай свой образ
+                Создайте свой образ
               </h3>
               <h4 className="text-xl md:text-2xl font-bold uppercase text-gradient">
                 в скульптуре
