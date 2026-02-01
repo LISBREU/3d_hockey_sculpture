@@ -56,7 +56,7 @@ const Museum = () => {
           {/* Right column - Museum interior */}
           <div className="space-y-8">
             <h3 className="text-2xl font-bold uppercase">
-              Посмотрите вашу биографию
+              Соберите вашу биографию
             </h3>
             <p className="text-sm text-muted-foreground uppercase tracking-wider">
               Персональная выставка ваших спортивных достижений
