@@ -12,7 +12,7 @@ const Museum = () => {
         {/* Title */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-black uppercase">
-            <span className="text-gradient">3D-Музей</span> ваших
+            <span className="text-gradient">3Д-Музей</span> ваших
             <br />
             <span className="text-foreground">достижений</span>
           </h2>
@@ -47,7 +47,7 @@ const Museum = () => {
                 в скульптуре
               </h4>
               <p className="mt-4 text-muted-foreground max-w-md mx-auto">
-                Современные технологии 3D-сканирования позволяют создать точную копию 
+                Современные технологии 3Д-сканирования позволяют создать точную копию 
                 вашего лица и фигуры в скульптурном исполнении.
               </p>
             </div>
@@ -73,7 +73,7 @@ const Museum = () => {
               </div>
             </div>
             
-            <a href="https://t.me/Hockey_Sculpture?text=Здравствуйте,%20хочу%20заказать%203Д%20скульптуру!" target="_blank" rel="noopener noreferrer" className="inline-block mt-4">
+            <a href="https://t.me/ilnur_shabanov" target="_blank" rel="noopener noreferrer" className="inline-block mt-4">
               <Button variant="hero" size="lg" className="w-full sm:w-auto">
                 Заказать сейчас
               </Button>

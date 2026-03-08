@@ -18,8 +18,8 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="#" className="text-xl font-black uppercase tracking-wider">
-            <span className="text-gradient">Hockey</span>
-            <span className="text-foreground">Sculpture</span>
+            <span className="text-gradient">Хоккейные </span>
+            <span className="text-foreground">Скульптуры</span>
           </a>
           
           {/* Desktop Navigation */}
@@ -38,7 +38,7 @@ const Header = () => {
           {/* CTA Button */}
           <div className="hidden md:block">
             <Button variant="hero" size="sm" asChild>
-              <a href="https://t.me/Hockey_Sculpture?text=Здравствуйте,%20хочу%20заказать%203Д%20скульптуру!" target="_blank" rel="noopener noreferrer">
+              <a href="https://t.me/ilnur_shabanov" target="_blank" rel="noopener noreferrer">
                 Заказать
               </a>
             </Button>
@@ -67,7 +67,7 @@ const Header = () => {
               </a>
             ))}
             <Button variant="hero" size="sm" className="w-full mt-4" asChild>
-              <a href="https://t.me/Hockey_Sculpture?text=Здравствуйте,%20хочу%20заказать%203Д%20скульптуру!" target="_blank" rel="noopener noreferrer">
+              <a href="https://t.me/ilnur_shabanov" target="_blank" rel="noopener noreferrer">
                 Заказать
               </a>
             </Button>

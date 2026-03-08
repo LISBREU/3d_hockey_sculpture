@@ -26,7 +26,7 @@ const Hero = () => {
             </div>
             
             <p className="text-lg text-muted-foreground max-w-md">
-              Увековечьте свои спортивные достижения в уникальных 3D скульптурах. 
+              Увековечьте свои спортивные достижения в уникальных 3Д скульптурах. 
               Создайте персональный музей славы.
             </p>
             
@@ -36,7 +36,7 @@ const Hero = () => {
                 size="xl"
                 asChild
               >
-                <a href="https://t.me/Hockey_Sculpture?text=Здравствуйте,%20хочу%20заказать%203Д%20скульптуру!" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/ilnur_shabanov" target="_blank" rel="noopener noreferrer">
                   Заказать
                 </a>
               </Button>
@@ -57,7 +57,7 @@ const Hero = () => {
             <div className="absolute inset-0 bg-gradient-radial from-primary/20 via-transparent to-transparent blur-3xl" />
             <img 
               src={heroSculpture} 
-              alt="3D скульптура хоккеиста"
+              alt="3Д скульптура хоккеиста"
               className="relative w-full h-auto object-contain drop-shadow-2xl"
             />
           </div>

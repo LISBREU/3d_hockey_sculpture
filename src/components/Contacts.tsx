@@ -50,8 +50,8 @@ const Contacts = () => {
               <ContactItem 
                 icon={<Send className="w-5 h-5" />}
                 label="Telegram"
-                value="@Hockey_Sculpture"
-                href="https://t.me/Hockey_Sculpture"
+              value="@ilnur_shabanov"
+              href="https://t.me/ilnur_shabanov"
               />
             </div>
           </div>
