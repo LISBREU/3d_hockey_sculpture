@@ -36,7 +36,7 @@ const Hero = () => {
                 size="xl"
                 asChild
               >
-                <a href="https://t.me/ilnur_shabanov" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/kuyan43" target="_blank" rel="noopener noreferrer">
                   Заказать
                 </a>
               </Button>

@@ -43,15 +43,15 @@ const Contacts = () => {
               <ContactItem 
                 icon={<Phone className="w-5 h-5" />}
                 label="Телефон"
-                value="8 919 693 98 92"
-                href="tel:+79196939892"
+                value="+7 987 424 1795"
+                href="tel:+79874241795"
               />
               
               <ContactItem 
                 icon={<Send className="w-5 h-5" />}
                 label="Telegram"
-              value="@ilnur_shabanov"
-              href="https://t.me/ilnur_shabanov"
+              value="@kuyan43"
+              href="https://t.me/kuyan43"
               />
             </div>
           </div>

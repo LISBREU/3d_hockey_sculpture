@@ -38,7 +38,7 @@ const Header = () => {
           {/* CTA Button */}
           <div className="hidden md:block">
             <Button variant="hero" size="sm" asChild>
-              <a href="https://t.me/ilnur_shabanov" target="_blank" rel="noopener noreferrer">
+              <a href="https://t.me/kuyan43" target="_blank" rel="noopener noreferrer">
                 Заказать
               </a>
             </Button>
@@ -67,7 +67,7 @@ const Header = () => {
               </a>
             ))}
             <Button variant="hero" size="sm" className="w-full mt-4" asChild>
-              <a href="https://t.me/ilnur_shabanov" target="_blank" rel="noopener noreferrer">
+              <a href="https://t.me/kuyan43" target="_blank" rel="noopener noreferrer">
                 Заказать
               </a>
             </Button>
